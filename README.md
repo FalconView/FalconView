@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FalconView
+- 👋 Hi, I’m @Feroz Zargar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning all the factors that goes into front and back end web development.
 - 💞️ I’m looking to collaborate on javascript and SQL
