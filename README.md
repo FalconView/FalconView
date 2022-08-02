@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feroz Zargar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning all the factors that goes into front and back end web development.
+- 👀 I love coding
+- 🌱 I’m currently learning all the factors that goes into front and backend web development.
 - 💞️ I’m looking to collaborate on javascript and SQL
 - 📫 How to reach me Ferozzargar@hotmail.com
 
