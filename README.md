@@ -1,3 +1,5 @@
+![LinkedIn] (https://img.shields.io/badge/LinkedIn-blue)
+
 # About Me 
 
 - 👋 Hi, I’m @Feroz Zargar
