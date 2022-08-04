@@ -45,8 +45,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+### My Stats:
+<img src="https://camo.githubusercontent.com/e2e51817490d027ccc76f0fe45bad4d982182c183bc72e2fd7a1d5e3d54eaaed/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d544f565443267468656d653d6461726b266261636b67726f756e643d303030303030" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=TOVTC&amp;theme=dark&amp;background=000000" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/197423a300a2d87af7fa8b05ac473240c38758430d805592de48568ec07874ee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d544f565443266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOVTC&amp;layout=compact&amp;theme=vision-friendly-dark" style="max-width: 100%;">
 
