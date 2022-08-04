@@ -14,7 +14,7 @@
 # About Me 
 
 - 👋 Hi, I’m @Feroz Zargar
-- 👀 I love coding
+- 👀 I love coding, appreciate creativity and inovation more than anything else. I am also a certified drone pilot, and content creator
 - 🌱 I’m currently learning all the factors that goes into front and backend web development.
 - 💞️ I’m looking to collaborate on javascript and SQL
 - 📫 How to reach me Ferozzargar@hotmail.com
