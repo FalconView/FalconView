@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### :fire: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=darker)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://camo.githubusercontent.com/197423a300a2d87af7fa8b05ac473240c38758430d805592de48568ec07874ee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d544f565443266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOVTC&amp;layout=compact&amp;theme=vision-friendly-dark" style="max-width: 100%;">
 
